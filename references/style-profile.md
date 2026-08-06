@@ -1,12 +1,12 @@
 # Style Profile
 
-Status: **Calibrated V1, awaiting forward-test confirmation**
+Status: **Calibrated V1.1, forward-tested on one entertainment recap**
 
-Evidence base: **Four Chinese long-form samples supplied on 2026-08-04**
+Evidence base: **Four Chinese long-form samples supplied on 2026-08-04, plus direct user revisions to one Xiaohongshu entertainment recap on 2026-08-06**
 
 AI assistance and current endorsement of each sample: **Unknown; assumed usable for V1**
 
-Last updated: **2026-08-04**
+Last updated: **2026-08-06**
 
 Use only evidence-backed preferences. Treat content claims, factual mistakes, typos, and platform residue as artifacts rather than style.
 
@@ -45,6 +45,8 @@ This movement appears across all four samples. The order may change when the for
 - Use descriptive section headings, often a plain topic (“关于需求”) or a reader question (“需求从哪里来呢？”). **Established.**
 - Break a broad idea into named dimensions, stages, principles, or numbered actions when the material naturally supports it. **Established.**
 - Put the key claim near the heading, then explain it with a story or scenario. **Established.**
+- When an opening hook asks a question that the body will answer progressively, do not immediately reveal the complete answer in a “summary first, details later” paragraph. Preserve the reader's discovery path and place the synthesis after the evidence. **Established: explicit user correction on 2026-08-06.**
+- In a spoiler-heavy mystery or character recap, use neutral time or event anchors for section headings when a conclusion-bearing heading would reveal the scene's answer before the evidence unfolds. **Established for this genre: explicit user revision on 2026-08-06.**
 - Alternate explanatory paragraphs with short verdicts, questions, quotations, or examples. **Established.**
 - Prefer one substantial example over several thin examples, even though the raw samples sometimes accumulate examples. **Editorial guardrail, not a claimed preference.**
 - Keep paragraphs readable and repair run-on sentences while preserving the conversational rhythm. **Editorial guardrail.**
@@ -73,6 +75,8 @@ Use for habits, learning, travel, belief, and personal growth:
 ## Language choices
 
 - Prefer concrete verbs and everyday nouns to generic abstractions.
+- In analytical or explanatory writing about how a relationship changes, prefer direct wording such as “这个关系是怎么发展起来的” over literary organic metaphors such as “这个关系是怎么长出来的”. **Established: explicit user correction on 2026-08-06.**
+- In entertainment and fandom reflections, prefer reader-native direct wording such as “好嗑的原因” over abstract analytical wording such as “成立的地方” when stating why a relationship appeals. **Provisional: one user revision on 2026-08-06.**
 - Use analogies grounded in products, design work, hobbies, books, and daily life.
 - Allow colloquial contrasts: “不是……而是……”“看过不等于会做”“轻则……重则……”。
 - Use rhetorical questions to open a problem or turn the argument, not as decorative engagement bait.
@@ -90,6 +94,8 @@ Prefer one of these evidence-backed endings:
 
 Do not add a generic inspirational paragraph merely because the samples sometimes end warmly.
 
+When a concrete final scene already carries the emotional conclusion, do not append a defensive disclaimer or a grand verdict that tells the reader how to interpret it. Let the scene land unless that debate is part of the user's thesis. **Provisional: one user revision on 2026-08-06.**
+
 ## Do not imitate these artifacts
 
 - Typos, duplicated words, missing punctuation, inconsistent spaces, or incorrect homophones.
@@ -97,6 +103,7 @@ Do not add a generic inspirational paragraph merely because the samples sometime
 - Exhaustive retelling when a shorter example proves the point.
 - Assertions presented as scientific fact merely because they appeared in a source or spiritual explanation.
 - Artificially repeated bold text, emoji, questions, or internet slang to simulate personality.
+- Editorial-process narration such as “这里先纠正一个容易记混的点” when the corrected fact can be integrated directly into the story. Keep an explicit correction only when the likely misunderstanding itself helps the reader. **Provisional: one user revision on 2026-08-06.**
 
 ## Positive and negative examples
 
