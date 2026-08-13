@@ -1,4 +1,4 @@
 interface:
   display_name: "个人写作风格"
-  short_description: "从真实写作样本提炼规则，稳定复现并持续校准你的个人表达风格"
-  default_prompt: "Use $personal-writing-style to把这份素材写成一篇像我的中文长文，并标出尚未验证的风格假设。"
+  short_description: "基于真实样本去除通用 AI 腔，持续校准你的中文表达"
+  default_prompt: "Use $personal-writing-style to按我的个人风格重写这份中文素材，并完成一次不覆盖个人声音的中文质量检查。"
